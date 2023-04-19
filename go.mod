@@ -1,4 +1,4 @@
-module github.com/waxdred/bybit_websocket_go
+module github.com/zavodilo/bybit_websocket_go
 
 go 1.19
 
